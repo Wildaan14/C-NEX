@@ -1,12 +1,4 @@
 {
-  "homepage": "https://wildaan14.github.io/C-NEX/",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "deploy": "gh-pages -d dist"
-  }
-}
-{
   "name": "c-nex-carbon-network-intelligence-exchange",
   "version": "0.1.0",
   "private": true,
